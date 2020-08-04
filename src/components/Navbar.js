@@ -16,7 +16,7 @@ class Navbar extends Component {
   <div className="collapse navbar-collapse" id="navbarText">
     <ul className="navbar-nav mr-auto marginleft">
       <li className="nav-item active">        
-        <Link to="/" className="nav-link">Home<span className="sr-only">(current)</span></Link>
+        <Link to="/MydApp" className="nav-link">Home<span className="sr-only">(current)</span></Link>
       </li>
       <li className="nav-item">        
          <Link to="/Add" className="nav-link">Add new entity</Link>
