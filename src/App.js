@@ -89,7 +89,12 @@ render() {
         <BrowserRouter>
         <div>
            <Navbar account={this.state.account} />
-             
+             <Switch>
+          <Route path='/homepage' component={Home} />
+         
+          <Route exact path='/' component={Home} />
+         
+        </Switch>
         </div> 
       </BrowserRouter>
       </div>
