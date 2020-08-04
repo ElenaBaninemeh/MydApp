@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/MydApp/static/css/main.8fa8a52d.chunk.css",
-    "main.js": "/MydApp/static/js/main.2601a113.chunk.js",
-    "main.js.map": "/MydApp/static/js/main.2601a113.chunk.js.map",
+    "main.css": "/MydApp/static/css/main.050523cc.chunk.css",
+    "main.js": "/MydApp/static/js/main.8a1436cf.chunk.js",
+    "main.js.map": "/MydApp/static/js/main.8a1436cf.chunk.js.map",
     "runtime-main.js": "/MydApp/static/js/runtime-main.5d3ddc06.js",
     "runtime-main.js.map": "/MydApp/static/js/runtime-main.5d3ddc06.js.map",
     "static/css/2.829c9cb5.chunk.css": "/MydApp/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.066e2578.chunk.js": "/MydApp/static/js/2.066e2578.chunk.js",
-    "static/js/2.066e2578.chunk.js.map": "/MydApp/static/js/2.066e2578.chunk.js.map",
+    "static/js/2.2f763685.chunk.js": "/MydApp/static/js/2.2f763685.chunk.js",
+    "static/js/2.2f763685.chunk.js.map": "/MydApp/static/js/2.2f763685.chunk.js.map",
     "index.html": "/MydApp/index.html",
-    "precache-manifest.76b6685d34dd1d13dc1108b244ba75e0.js": "/MydApp/precache-manifest.76b6685d34dd1d13dc1108b244ba75e0.js",
+    "precache-manifest.c6ffd0f65ee6f636dad04cb7e7b3f6d8.js": "/MydApp/precache-manifest.c6ffd0f65ee6f636dad04cb7e7b3f6d8.js",
     "service-worker.js": "/MydApp/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/MydApp/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.8fa8a52d.chunk.css.map": "/MydApp/static/css/main.8fa8a52d.chunk.css.map",
-    "static/js/2.066e2578.chunk.js.LICENSE.txt": "/MydApp/static/js/2.066e2578.chunk.js.LICENSE.txt",
-    "static/media/bg2.png": "/MydApp/static/media/bg2.0b1490dd.png",
-    "static/media/mylogo.jpg": "/MydApp/static/media/mylogo.b0d6fa00.jpg",
-    "static/media/uulogo.png": "/MydApp/static/media/uulogo.0f04b257.png"
+    "static/css/main.050523cc.chunk.css.map": "/MydApp/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.2f763685.chunk.js.LICENSE.txt": "/MydApp/static/js/2.2f763685.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MydApp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d3ddc06.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.066e2578.chunk.js",
-    "static/css/main.8fa8a52d.chunk.css",
-    "static/js/main.2601a113.chunk.js"
+    "static/js/2.2f763685.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.8a1436cf.chunk.js"
   ]
 }
