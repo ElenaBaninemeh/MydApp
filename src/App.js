@@ -95,7 +95,7 @@ render() {
              <Route path="/Search" component={Search}/>
               <Route path="/Add" component={Add}/>
                <Route path="/Search2" component={Search2}/>
-               <Route component={Error}/>
+              
            </Switch>
          
         </div> 
