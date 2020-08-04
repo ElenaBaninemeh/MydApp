@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MydApp/static/css/main.c1469918.chunk.css",
-    "main.js": "/MydApp/static/js/main.4f2de547.chunk.js",
-    "main.js.map": "/MydApp/static/js/main.4f2de547.chunk.js.map",
+    "main.js": "/MydApp/static/js/main.f132cc74.chunk.js",
+    "main.js.map": "/MydApp/static/js/main.f132cc74.chunk.js.map",
     "runtime-main.js": "/MydApp/static/js/runtime-main.5d3ddc06.js",
     "runtime-main.js.map": "/MydApp/static/js/runtime-main.5d3ddc06.js.map",
     "static/css/2.829c9cb5.chunk.css": "/MydApp/static/css/2.829c9cb5.chunk.css",
     "static/js/2.3d123fb4.chunk.js": "/MydApp/static/js/2.3d123fb4.chunk.js",
     "static/js/2.3d123fb4.chunk.js.map": "/MydApp/static/js/2.3d123fb4.chunk.js.map",
     "index.html": "/MydApp/index.html",
-    "precache-manifest.88869b28f5342e55804f8ffd34988348.js": "/MydApp/precache-manifest.88869b28f5342e55804f8ffd34988348.js",
+    "precache-manifest.480459e15ded6935f94ca2131d28e23b.js": "/MydApp/precache-manifest.480459e15ded6935f94ca2131d28e23b.js",
     "service-worker.js": "/MydApp/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/MydApp/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.c1469918.chunk.css.map": "/MydApp/static/css/main.c1469918.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.3d123fb4.chunk.js",
     "static/css/main.c1469918.chunk.css",
-    "static/js/main.4f2de547.chunk.js"
+    "static/js/main.f132cc74.chunk.js"
   ]
 }
