@@ -95,10 +95,10 @@ render() {
           <Route exact path='/MydApp' component={Home} />
 
 
-          <Route exact path="/List" component={List}/>
-             <Route exact path="/Search" component={Search}/>
-              <Route exact path="/Add" component={Add}/>
-               <Route exact path="/Search2" component={Search2}/>
+          <Route exact path="/MydApp/List" component={List}/>
+             <Route exact path="/MydApp/Search" component={Search}/>
+              <Route exact path="/MydApp/Add" component={Add}/>
+               <Route exact path="/MydApp/Search2" component={Search2}/>
          
         </Switch>
         </div> 
