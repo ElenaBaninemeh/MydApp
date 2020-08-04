@@ -3,7 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 import Web3 from 'web3';
 import { Component } from 'react';
-import AddData from './abis/AddData.json'
+import AddData from './abis/AddData.json';
+import Navbar from './components/Navbar';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Home from './components/Home';
+import List from './components/List';
+import Search from './components/Search';
+import Add from './components/Add';
+import Search2 from './components/Search2';
 
 class App extends Component {
 
@@ -77,22 +84,22 @@ class App extends Component {
 
 render() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+     <div>
+       
+        <BrowserRouter>
+        <div>
+           <Navbar account={this.state.account} />
+            <Switch>
+             <Route path="/" component={Home} exact/>
+             <Route path="/List" component={List}/>
+             <Route path="/Search" component={Search}/>
+              <Route path="/Add" component={Add}/>
+               <Route path="/Search2" component={Search2}/>
+               <Route component={Error}/>
+           </Switch>
+        </div> 
+      </BrowserRouter>
+      </div>
   );
 }
 }
