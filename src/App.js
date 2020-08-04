@@ -90,7 +90,7 @@ render() {
         <div>
            <Navbar account={this.state.account} />
              <Switch>
-             <Route path="/" component={Home} exact/>
+             <Route exact path="/" component={Home} />
              <Route path="/List" component={List}/>
              <Route path="/Search" component={Search}/>
               <Route path="/Add" component={Add}/>
