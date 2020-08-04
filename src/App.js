@@ -90,9 +90,9 @@ render() {
         <div>
            <Navbar account={this.state.account} />
              <Switch>
-          <Route path='/homepage' component={Home} />
+          <Route path='/MydApp/homepage' component={Home} />
          
-          <Route exact path='/' component={Home} />
+          <Route exact path='/MydApp' component={Home} />
          
         </Switch>
         </div> 
